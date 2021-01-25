@@ -1,3 +1,2 @@
-*.pbxproj binary
-project-docs/* linguist-documentation
-* linguist-vendored
+* linguist-vendored  # this command removed all the languages detected by git
+*.R linguist-vendored=false #  tells github/linguist to ignore all files, then just look at .R files
