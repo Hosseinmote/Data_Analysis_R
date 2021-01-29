@@ -1,4 +1,4 @@
-# Base Plotting in R
+# Basic Plotting in R
 
 The goal in this project is to analyze data and make some exploratory plots using R base plotting system.
 The data is from the UC Irvine Machine Learning Repository. In particular, we will be using the 
